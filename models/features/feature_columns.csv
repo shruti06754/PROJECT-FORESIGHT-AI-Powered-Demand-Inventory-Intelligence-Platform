@@ -1,0 +1,131 @@
+Feature
+Units_Sold
+Revenue
+Price
+Promotion
+Year
+Month
+Quarter
+Week
+Day
+Day_of_Week
+Is_Weekend
+Month_Sin
+Month_Cos
+Day_of_Week_Sin
+Day_of_Week_Cos
+year
+month
+week
+is_weekend
+is_holiday
+Lag_1
+Lag_7
+Lag_14
+Lag_28
+Rolling_Mean_7
+Rolling_Mean_14
+Rolling_Mean_28
+Rolling_Std_7
+Rolling_Std_14
+Rolling_Std_28
+Promotion_Flag
+Price_Rolling_Mean_7
+Promotion_Units
+Cost_Price
+Selling_Price
+Gross_Margin_Per_Unit
+Gross_Margin_Percent
+Estimated_Gross_Margin
+Current_Stock
+On_Order
+Lead_Time_Days
+Safety_Stock
+Reorder_Point
+Inventory_Value
+Average_Daily_Demand
+Days_of_Stock
+Stock_Gap
+Reorder_Gap
+Total_Available_Stock
+Lead_Time_Demand
+Stock_Cover_After_On_Order
+Safety_Stock_Gap
+quarter_Q1
+quarter_Q2
+quarter_Q3
+quarter_Q4
+day_of_week_Friday
+day_of_week_Monday
+day_of_week_Saturday
+day_of_week_Sunday
+day_of_week_Thursday
+day_of_week_Tuesday
+day_of_week_Wednesday
+season_Autumn
+season_Monsoon
+season_Spring
+season_Summer
+season_Winter
+holiday_Christmas
+holiday_Diwali
+holiday_Independence Day
+holiday_None
+holiday_Republic Day
+promotion_event_None
+promotion_event_Seasonal Promotion
+Product_Name_Product 001
+Product_Name_Product 002
+Product_Name_Product 003
+Product_Name_Product 004
+Product_Name_Product 005
+Product_Name_Product 006
+Product_Name_Product 007
+Product_Name_Product 008
+Product_Name_Product 009
+Product_Name_Product 010
+Product_Name_Product 011
+Product_Name_Product 012
+Product_Name_Product 013
+Product_Name_Product 014
+Product_Name_Product 015
+Product_Name_Product 016
+Product_Name_Product 017
+Product_Name_Product 018
+Product_Name_Product 019
+Product_Name_Product 020
+Product_Name_Product 021
+Product_Name_Product 022
+Product_Name_Product 023
+Product_Name_Product 024
+Product_Name_Product 025
+Product_Name_Product 026
+Product_Name_Product 027
+Product_Name_Product 028
+Product_Name_Product 029
+Product_Name_Product 030
+Product_Name_Product 031
+Product_Name_Product 032
+Product_Name_Product 033
+Product_Name_Product 034
+Product_Name_Product 035
+Product_Name_Product 036
+Product_Name_Product 037
+Product_Name_Product 038
+Product_Name_Product 039
+Product_Name_Product 040
+Category_Furniture
+Category_Home Decor
+Category_Kitchen
+Category_Lighting
+Category_Storage
+Subcategory_Cabinet
+Subcategory_Chair
+Subcategory_Cookware
+Subcategory_Cushion
+Subcategory_Lamp
+Subcategory_Organizer
+Subcategory_Rug
+Subcategory_Shelf
+Subcategory_Sofa
+Subcategory_Table

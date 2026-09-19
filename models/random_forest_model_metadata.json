@@ -1,0 +1,19 @@
+{
+    "model_name": "Random Forest",
+    "model_type": "RandomForestRegressor",
+    "n_features": 130,
+    "training_rows": 28960,
+    "testing_rows": 7240,
+    "n_estimators": 300,
+    "max_depth": 20,
+    "min_samples_leaf": 2,
+    "metrics": {
+        "MAE": 3.1935450047414102,
+        "RMSE": 4.117663162493578,
+        "MAPE": 30.313597803981075,
+        "R2": 0.7778938733062312
+    },
+    "feature_file": "models/features/feature_columns.csv",
+    "model_file": "models/random_forest_demand_model.pkl",
+    "prediction_file": "models/predictions/random_forest_predictions.csv"
+}
